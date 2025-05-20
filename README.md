@@ -45,7 +45,7 @@ This project focuses on building a predictive model to estimate industrial power
   - `scikit-learn` – for machine learning modeling
   - `pandas` – for data manipulation
   - `numpy` – for numerical operations
-  - `matplotlib`, `seaborn` – for data visualization
+  - `matplotlib` – for data visualization
 
 ---
 
